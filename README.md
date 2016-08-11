@@ -10,4 +10,4 @@ JS script which generates a table depending on the input and draws a path follow
 
 #### Interesting points -> You can:
 * switch the algorithm while executing one
-* define your own algorithms in var 'path' at 'utils.js'
+* define your own algorithms in var `path` at `utils.js`
