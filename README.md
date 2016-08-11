@@ -7,6 +7,7 @@ JS script which generates a table depending on the input and draws a path follow
 ### Todo list
 - [ ] Fix some graphic bugs pretty annoying with some paths
 - [ ] Code an algorithm to build a **Maze**
+- [ ] User `canvas` instead of `table`
 
 #### Interesting points -> You can:
 * switch the algorithm while executing one
