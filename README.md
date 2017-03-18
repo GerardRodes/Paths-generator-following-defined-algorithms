@@ -2,7 +2,7 @@
 It draws.
 
 ## Serious description
-JS script which generates a table depending on the input and draws a path following the algorithm (not really an algorithm, lol) selected.
+JS script which generates a table depending on the input and draws a path following the algorithm selected.
 
 ### Todo list
 - [ ] Fix some graphic bugs pretty annoying with some paths
